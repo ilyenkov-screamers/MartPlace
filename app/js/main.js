@@ -11,7 +11,7 @@ $(function() {
         prevArrow: '<button class="slick-arrow__left slick-prev"></button>',
     });
 
-    $(".prodict__slider-items").slick({
+    $(".product__slider-items").slick({
         slidesToShow: 3,
         slidesToScroll: 3,
         arrows: true,
